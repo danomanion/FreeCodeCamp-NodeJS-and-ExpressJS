@@ -16,8 +16,6 @@
     "url": "https://github.com/danomanion/FreeCodeCamp-NodeJS-and-ExpressJS/issues"
   },
   "homepage": "https://github.com/danomanion/FreeCodeCamp-NodeJS-and-ExpressJS#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
